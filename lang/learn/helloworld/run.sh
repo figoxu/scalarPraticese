@@ -1,0 +1,1 @@
+scalac hw.scala && scala HelloWorld && rm *.class
